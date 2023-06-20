@@ -1,5 +1,6 @@
 Biblia Takatifu kwa Kiswahili.
 Watengenezaji: Tanzania Youth Developers
+Developer: Jimmy Oscar
 Email: jimmyoscarbrown@gmail.com
 
 Sheria Tumizi:
